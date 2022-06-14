@@ -1,0 +1,1 @@
+This folder contains important documentation and notes written while learning rails.
