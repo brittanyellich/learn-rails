@@ -18,5 +18,7 @@ module LearnRails
     #
     # config.time_zone = "Central Time (US & Canada)"
     # config.eager_load_paths << Rails.root.join("extras")
+    require "view_component"
+    require "primer/view_components/engine"
   end
 end
