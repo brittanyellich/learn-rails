@@ -29,6 +29,7 @@ group :test do
   gem "selenium-webdriver", "4.2.0"
   gem "webdrivers",         "5.0.0"
   gem "minitest-reporters", "1.1.11"
+  gem "rails-controller-testing", "1.0.5"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem.
